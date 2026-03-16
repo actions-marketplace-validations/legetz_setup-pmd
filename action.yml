@@ -2,7 +2,7 @@ name: 'PMD - Salesforce APEX code analyzer action'
 author: Leo Jokinen
 description: 'Check Salesforce APEX code using PMD'
 runs:
-  using: 'node20'
+  using: 'node24'
   main: 'index.js'
 branding:
   icon: 'award'  
